@@ -26,7 +26,7 @@ Table of Contents
 [《因果科学周刊》第1期：因果社区诚邀加入，打造因果推理共同范式](https://mp.weixin.qq.com/s/j4rPgNB77pV8AaixJ-mTzQ)
 
 
-[[郭若城](https://www.public.asu.edu/~rguo12/)：因果机器学习](https://live.bilibili.com/8091531)
+[[郭若城](https://www.public.asu.edu/~rguo12/)：因果机器学习][PPT](PPT/Causal_Inference_Tutorial.pdf)[Bilibili](https://live.bilibili.com/8091531)
 
 
 
